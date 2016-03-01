@@ -1,0 +1,17 @@
+meridian,panner_masala,200,solo
+meridian,panner_masala & rice,300,combo
+meridian,roti,60,solo
+meridian,naan,120,solo
+samarth,panner_masala,150,solo
+samarth,panner_masala & roti,175,combo
+samarth,roti,55,solo
+samarth,naan,110,solo
+sayaji,panner_masala,200,solo
+sayaji,malai_kofta,100,solo
+sayaji,roti,50,solo
+sayaji,naan,100,solo
+sayaji,roti & panner_masala,130,combo
+sayaji,naan & paneer_masala,150,combo
+holidayinn,naan & malai_kofta,300,combo
+holidayinn,roti,70,solo
+holidayinn,naan,140,solo
